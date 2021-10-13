@@ -1,5 +1,5 @@
-<h1 align="center">Django Metric Data Dashboard App</h1>
-<h3 align="center">this is a simple Dashboard to gather and show metric data (temp/humidity as an example) </h3>
+<h1 align="center">Django Heorku Template Project</h1>
+<h3 align="center">A simple start for any heroku project</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
@@ -89,7 +89,7 @@ This project main goal is to provide a way to deploy django applications by usin
   </li>
   <p>Message and warnings configuration for notification handelings</p>
  <li><strong>Hints and Files</strong></li>
-  <p>Sample files and hints all over the template for more giving more pace</p>
+  <p>Sample files and hints all over the template for giving more pace</p>
   <li>
        <strong>Security</strong>        
   </li>
