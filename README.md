@@ -32,7 +32,7 @@ This project main goal is to provide a way to deploy django applications by usin
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-git clone https://github.com/alibigdeli/Django-CBV-DRF-ApiView-TodoApp
+git clone https://github.com/alibigdeli/Django-Heroku-Template
 ```
 
 ### Getting ready
